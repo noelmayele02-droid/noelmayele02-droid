@@ -1,43 +1,59 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                    GOLDEN COMMAND CENTER                    -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,35:080808,65:8A6500,85:D4A900,100:FFD700&height=250&section=header&text=ALBERT%20ISAAC%20MAYELE&fontSize=46&fontColor=FFD700&animation=fadeIn&fontAlignY=34&desc=CYBERSECURITY%20%E2%80%A2%20ARTIFICIAL%20INTELLIGENCE%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=57&descSize=15&descColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020202,35:070707,60:17120A,82:B8860B,100:FFD700&height=260&section=header&text=ALBERT.OS&fontSize=64&fontColor=FFD700&animation=fadeIn&fontAlignY=34&desc=CYBERSECURITY%20%E2%80%A2%20AI%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=57&descSize=15&descColor=FFFFFF" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2400&pause=600&color=FFD700&center=true&vCenter=true&width=1000&height=60&lines=INITIALIZING+ALBERT.OS...;CYBERSECURITY+SYSTEMS+ONLINE+%E2%9C%93;ARTIFICIAL+INTELLIGENCE+CORE+ONLINE+%E2%9C%93;LOCAL+LLM+LAB+ONLINE+%E2%9C%93;AUTOMATION+ENGINE+ONLINE+%E2%9C%93;BUILDING+THE+FUTURE%2C+ONE+SYSTEM+AT+A+TIME." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=500&color=FFD700&center=true&vCenter=true&width=1000&height=60&lines=THE+PERSONAL+ENGINEERING+OPERATING+SYSTEM.;CYBERSECURITY+ENGINE+%E2%9C%93;AI+ENGINE+%E2%9C%93;AUTOMATION+ENGINE+%E2%9C%93;PRODUCT+ENGINEERING+ENGINE+%E2%9C%93;SYSTEM+READY+%E2%80%94+BUILDING+IN+PUBLIC." />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/●_SYSTEM-ONLINE-FFD700?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/●_AI_CORE-ACTIVE-FFD700?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/●_CYBER_LAB-ACTIVE-FFD700?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/●_PLATFORM-ONLINE-FFD700?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/●_AI_CORE-ONLINE-FFD700?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/●_SECURITY-ACTIVE-FFD700?style=for-the-badge&labelColor=050505" />
 <img src="https://img.shields.io/badge/●_BUILD_MODE-ACTIVE-FFD700?style=for-the-badge&labelColor=050505" />
 
 <br><br>
 
-<a href="https://github.com/noelmayele02-droid">
-<img src="https://img.shields.io/badge/GITHUB-FFD700?style=for-the-badge&logo=github&logoColor=000000&labelColor=111111" />
+<a href="https://www.stostep.tech">
+<img src="https://img.shields.io/badge/LAUNCH_PORTFOLIO-FFD700?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=111111" />
 </a>
 
-<a href="https://www.stostep.tech">
-<img src="https://img.shields.io/badge/PORTFOLIO-FFD700?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=111111" />
+<a href="https://github.com/noelmayele02-droid">
+<img src="https://img.shields.io/badge/OPEN_SOURCE_LAB-FFD700?style=for-the-badge&logo=github&logoColor=000000&labelColor=111111" />
 </a>
 
 <a href="https://linkedin.com/in/albert-isaac-noël-mayele-93aa96288">
-<img src="https://img.shields.io/badge/LINKEDIN-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=111111" />
+<img src="https://img.shields.io/badge/CONNECT-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=111111" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=noelmayele02-droid&style=for-the-badge&color=FFD700&labelColor=080808&label=PROFILE+VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=noelmayele02-droid&style=for-the-badge&color=FFD700&labelColor=050505&label=ACTIVE+VISITORS" />
 
-<br><br>
+</div>
+
+---
+
+<div align="center">
+
+# `ALBERT.OS`
+
+### A PERSONAL SOFTWARE + SECURITY + AI OPERATING SYSTEM
+
+<br>
+
+<table>
+<tr>
+<td align="center">🛡️<br><strong>SECURITY</strong><br><sub>Protect</sub></td>
+<td align="center">🤖<br><strong>AI</strong><br><sub>Think</sub></td>
+<td align="center">⚙️<br><strong>AUTOMATION</strong><br><sub>Execute</sub></td>
+<td align="center">☁️<br><strong>CLOUD</strong><br><sub>Scale</sub></td>
+<td align="center">🚀<br><strong>PRODUCT</strong><br><sub>Ship</sub></td>
+</tr>
+</table>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=850" />
 
@@ -45,112 +61,51 @@
 
 ---
 
-<div align="center">
-
-# ◈ THE GOLDEN PROTOCOL
-
-### `BUILD  →  SECURE  →  AUTOMATE  →  INNOVATE`
-
-<br>
-
-<table>
-<tr>
-<td align="center">
-
-### 🟨 BUILD
-
-Create
-
-</td>
-<td align="center">
-
-### 🛡️ SECURE
-
-Protect
-
-</td>
-<td align="center">
-
-### ⚙️ AUTOMATE
-
-Optimize
-
-</td>
-<td align="center">
-
-### 🤖 INNOVATE
-
-Transform
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🥷 WHO IS ALBERT?
+# 🟨 PLATFORM OVERVIEW
 
 <table>
 <tr>
 
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-## `ALBERT ISAAC MAYELE`
+## `ONE ENGINEER. MULTIPLE SYSTEMS.`
 
-I'm a technology builder working at the intersection of:
+I'm **Albert Isaac MAYELE**, a technology builder focused on the intersection of:
 
-🛡️ **Cybersecurity**
-🖥️ **Systems & Infrastructure**
-💻 **Software Engineering**
-🤖 **Artificial Intelligence**
-☁️ **Cloud & Automation**
-🧠 **Intelligent Systems**
-🚀 **Digital Products**
+**Cybersecurity × AI × Systems × Software Engineering**
 
-I enjoy taking an idea, designing the architecture, building the system, testing it, securing it and turning it into something people can actually use.
+I use GitHub as a public engineering laboratory where ideas become:
 
-<br>
+* 🧠 AI systems
+* 🛡️ Security experiments
+* ⚙️ Automation tools
+* 🌐 Web applications
+* 📱 Mobile applications
+* ☁️ Cloud systems
+* 🚀 Digital products
 
-> ### **I DON'T JUST LEARN TECHNOLOGY.**
->
-> ### **I BUILD WITH IT.**
+The objective isn't to collect technologies.
+
+### The objective is to make them work together.
 
 </td>
 
-<td width="45%" valign="top">
+<td width="40%" valign="top">
 
-## `ENGINEERING LOOP`
-
-```text
-┌───────────────────────┐
-│       💡 IDEA        │
-└───────────┬───────────┘
-            ↓
-┌───────────────────────┐
-│    🧠 ARCHITECTURE    │
-└───────────┬───────────┘
-            ↓
-┌───────────────────────┐
-│       ⚡ BUILD        │
-└───────────┬───────────┘
-            ↓
-┌───────────────────────┐
-│       🧪 TEST         │
-└───────────┬───────────┘
-            ↓
-┌───────────────────────┐
-│       🛡️ SECURE      │
-└───────────┬───────────┘
-            ↓
-┌───────────────────────┐
-│      ⚙️ AUTOMATE      │
-└───────────┬───────────┘
-            ↓
-┌───────────────────────┐
-│       🚀 SHIP         │
-└───────────────────────┘
+```text id="3x7w7d"
+┌───────────────────────────┐
+│      ALBERT.OS CORE       │
+├───────────────────────────┤
+│                           │
+│  🛡 SECURITY              │
+│  🤖 INTELLIGENCE          │
+│  ⚙ AUTOMATION             │
+│  ☁ INFRASTRUCTURE         │
+│  🚀 PRODUCTS              │
+│                           │
+├───────────────────────────┤
+│      ● OPERATIONAL        │
+└───────────────────────────┘
 ```
 
 </td>
@@ -162,64 +117,218 @@ I enjoy taking an idea, designing the architecture, building the system, testing
 
 <div align="center">
 
-# 🟨 CURRENTLY EXPLORING
+# ⚡ PLATFORM METRICS
 
-<img src="https://img.shields.io/badge/CYBERSECURITY-FFD700?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-FFD700?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/LOCAL_LLMs-FFD700?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/AI_AGENTS-FFD700?style=for-the-badge&labelColor=050505" />
+<table>
+<tr>
+<td align="center">
+<h2>52+</h2>
+<sub>REPOSITORIES</sub>
+</td>
 
-<br>
+<td align="center">
+<h2>391+</h2>
+<sub>YEARLY CONTRIBUTIONS</sub>
+</td>
 
-<img src="https://img.shields.io/badge/OLLAMA-FFD700?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/DEVSECOPS-FFD700?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/AUTOMATION-FFD700?style=for-the-badge&labelColor=050505" />
-<img src="https://img.shields.io/badge/CLOUD-FFD700?style=for-the-badge&labelColor=050505" />
+<td align="center">
+<h2>25+</h2>
+<sub>FOLLOWERS</sub>
+</td>
 
-<br><br>
+<td align="center">
+<h2>∞</h2>
+<sub>EXPERIMENTS</sub>
+</td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=700" />
+<sub>Live GitHub metrics may evolve over time.</sub>
 
 </div>
 
 ---
 
-# 🛰️ ALBERT.OS // BOOT SEQUENCE
+# 🧩 PLATFORM MODULES
+
+<div align="center">
+
+### `THE ALBERT.OS ECOSYSTEM`
+
+</div>
+
+<table>
+
+<tr>
+
+<td width="33%" valign="top">
+
+## 🛡️ SECURITY ENGINE
 
 ```text
-╔════════════════════════════════════════════════════════════════╗
-║                    ALBERT.OS // BOOT                          ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║  [✓] CORE SYSTEM ................................ ONLINE       ║
-║  [✓] CYBERSECURITY ENGINE ....................... ONLINE       ║
-║  [✓] AI ENGINE .................................. ONLINE       ║
-║  [✓] AUTOMATION ENGINE .......................... ONLINE       ║
-║  [✓] SOFTWARE ENGINEERING ....................... ONLINE       ║
-║  [✓] LOCAL LLM LAB .............................. ONLINE       ║
-║  [✓] EXPERIMENTATION MODE ....................... ACTIVE       ║
-║                                                                ║
-║  ACCESS LEVEL .................................. ENGINEER       ║
-║  OPERATING MODE .............................. BUILD MODE       ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
+RECON
+  ↓
+ANALYZE
+  ↓
+DETECT
+  ↓
+AUTOMATE
+  ↓
+DEFEND
 ```
+
+OSINT
+Network Security
+Threat Intelligence
+Security Automation
+System Hardening
+Controlled Research
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🤖 AI ENGINE
+
+```text
+INPUT
+  ↓
+MODEL
+  ↓
+AGENT
+  ↓
+TOOLS
+  ↓
+ACTION
+```
+
+Local LLMs
+AI Agents
+Assistants
+Ollama
+Machine Learning
+Intelligent Automation
+
+</td>
+
+<td width="33%" valign="top">
+
+## ⚙️ PRODUCT ENGINE
+
+```text
+IDEA
+  ↓
+DESIGN
+  ↓
+BUILD
+  ↓
+TEST
+  ↓
+SHIP
+```
+
+Web Apps
+Mobile Apps
+SaaS
+APIs
+Dashboards
+Digital Products
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+## ☁️ INFRASTRUCTURE
+
+```text
+CODE
+ ↓
+CI/CD
+ ↓
+DEPLOY
+ ↓
+MONITOR
+ ↓
+SCALE
+```
+
+Linux
+Docker
+GitHub Actions
+Netlify
+Cloudflare
+Supabase
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🧠 DATA ENGINE
+
+```text
+DATA
+ ↓
+PROCESS
+ ↓
+MODEL
+ ↓
+INSIGHT
+ ↓
+DECISION
+```
+
+Data
+ML
+MLOps
+Analytics
+Automation
+Intelligence
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🚀 INNOVATION LAB
+
+```text
+QUESTION
+ ↓
+EXPERIMENT
+ ↓
+PROTOTYPE
+ ↓
+VALIDATE
+ ↓
+ITERATE
+```
+
+Experimental systems
+New interfaces
+AI products
+Security concepts
+Automation ideas
+
+</td>
+
+</tr>
+
+</table>
+
+---
 
 <div align="center">
 
-`SYSTEM READY`
+# 🚀 PRODUCT SUITE
+
+### `BUILT / EXPERIMENTAL / IN DEVELOPMENT`
 
 </div>
 
 ---
-
-# 🚀 PROJECT UNIVERSE
-
-<div align="center">
-
-### `DIGITAL PRODUCTS  •  AI SYSTEMS  •  SECURITY LABS  •  EXPERIMENTS`
-
-</div>
 
 <table>
 
@@ -227,13 +336,15 @@ I enjoy taking an idea, designing the architecture, building the system, testing
 
 <td width="50%" valign="top">
 
-## 🟨 FAXTRIX
+# 🟨 FAXTRIX
 
-### `CRM × FSM × AI × AUTOMATION`
+### `THE BUSINESS OPERATING SYSTEM`
 
-A business operating system concept designed around:
+**CRM × FSM × AI × AUTOMATION**
 
-```text
+FAXTRIX explores what happens when CRM, field operations and intelligent automation become one system.
+
+```text id="z8afj4"
 CRM
  ↓
 FIELD
@@ -242,12 +353,12 @@ TEAMS
  ↓
 AUTOMATION
  ↓
-INTELLIGENCE
+BUSINESS INTELLIGENCE
  ↓
 SIMULATION
 ```
 
-### CORE SYSTEMS
+### INTELLIGENCE LAYER
 
 🧠 Business Brain
 🚨 Early Warning
@@ -256,37 +367,37 @@ SIMULATION
 🔄 Auto-Recovery
 👥 Team Load AI
 🧬 Organizational DNA
-🧠 Organizational Memory
+🧠 Memory
 🎯 Decision Simulator
 🏢 Business Simulator
 
-**Stack**
+**Architecture**
 
-`React` · `TypeScript` · `Android` · `PWA` · `AI` · `Cloud`
+`Frontend → API → Data → Intelligence → Automation`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🇨🇬 TEKA TECH CONGO
+# 🇨🇬 TEKA TECH CONGO
 
-### `DIGITAL TECHNOLOGY PLATFORM`
+### `DIGITAL INFRASTRUCTURE ECOSYSTEM`
 
-Technology initiative focused on practical digital transformation.
+A technology initiative around practical digital transformation.
 
-```text
-🌐 DIGITAL SOLUTIONS
-🖥️ IT SUPPORT
-🌐 NETWORKING
-📡 WI-FI
-📹 VIDEO SURVEILLANCE
-☁️ DIGITAL SERVICES
-🚀 DIGITAL TRANSFORMATION
-```
+### MODULES
 
-### MISSION
+🌐 Digital Solutions
+🖥️ IT Support
+🌐 Networking
+📡 Wi-Fi
+📹 Surveillance
+☁️ Digital Services
+🎓 Technology Training
 
-> Make useful technology more accessible, practical and scalable.
+### VISION
+
+> Build practical technology that solves real problems and expands digital capabilities.
 
 </td>
 
@@ -296,22 +407,23 @@ Technology initiative focused on practical digital transformation.
 
 <td width="50%" valign="top">
 
-## 🛡️ SENTINEL
+# 🛡️ SENTINEL
 
-### `DEFENSIVE CYBERSECURITY LAB`
+### `DEFENSIVE SECURITY PLATFORM`
 
-Security-oriented experimentation.
+A cybersecurity laboratory focused on defensive experimentation.
 
 ```text
-🔎 MONITORING
-🚨 DETECTION
-🧪 CONTROLLED RESEARCH
-⚙️ SECURITY AUTOMATION
-📡 DEFENSIVE TOOLING
-🔐 SYSTEM SECURITY
+COLLECT
+   ↓
+ANALYZE
+   ↓
+DETECT
+   ↓
+RESPOND
+   ↓
+LEARN
 ```
-
-**Stack**
 
 `Python` · `Security` · `Automation`
 
@@ -319,24 +431,27 @@ Security-oriented experimentation.
 
 <td width="50%" valign="top">
 
-## 🤖 OPENJARVIS
+# 🤖 OPENJARVIS
 
-### `LOCAL AI ASSISTANT LAB`
+### `LOCAL AI ASSISTANT PLATFORM`
 
-Exploration of local AI assistants and agentic systems.
+Exploration of local AI infrastructure.
 
 ```text
-🧠 LOCAL LLMs
-🗣️ VOICE ASSISTANTS
-🤖 AI AGENTS
-⚙️ AUTOMATION
-🖥️ OLLAMA
-🔌 LOCAL AI INFRASTRUCTURE
+USER
+ ↓
+VOICE / TEXT
+ ↓
+LLM
+ ↓
+AGENT
+ ↓
+TOOLS
+ ↓
+ACTION
 ```
 
-**Stack**
-
-`Python` · `LLM` · `Ollama` · `Agents`
+`Python` · `Ollama` · `LLMs` · `Agents`
 
 </td>
 
@@ -346,45 +461,35 @@ Exploration of local AI assistants and agentic systems.
 
 <td width="50%" valign="top">
 
-## 🧠 FHR-AI
+# 🧠 FHR-AI
 
-### `AI / ML / MLOPS`
+### `AI / ML / MLOPS LAB`
 
 ```text
 DATA
  ↓
 FEATURES
  ↓
-TRAINING
+TRAIN
  ↓
-VALIDATION
+VALIDATE
  ↓
-INFERENCE
+INFER
  ↓
-MONITORING
+MONITOR
 ```
 
-Exploring how AI concepts become maintainable systems.
-
-`AI` · `ML` · `MLOps` · `Data`
+Exploration of practical AI engineering and maintainable ML workflows.
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎵 SUNO AUDIO VAULT
+# 🎵 SUNO AUDIO VAULT
 
-### `AI AUDIO EXPERIENCE`
+### `AI MEDIA EXPERIENCE`
 
-Exploration of AI-generated audio and web interaction.
-
-```text
-🎵 AUDIO
-🌐 WEB
-⚡ FRONTEND
-🔗 APIs
-📦 DIGITAL MEDIA
-```
+Exploration of AI-generated audio experiences and web interfaces.
 
 `TypeScript` · `Web APIs` · `Frontend`
 
@@ -398,71 +503,123 @@ Exploration of AI-generated audio and web interaction.
 
 <div align="center">
 
-# 🛡️ CYBERSECURITY // BLACK GOLD LAB
+# 🧠 SYSTEM ARCHITECTURE
 
 ```text
+                         ┌────────────────────────┐
+                         │       ALBERT.OS         │
+                         │    ENGINEERING CORE     │
+                         └────────────┬───────────┘
+                                      │
+          ┌───────────────────────────┼───────────────────────────┐
+          │                           │                           │
+          ▼                           ▼                           ▼
+ ┌────────────────┐         ┌────────────────┐         ┌────────────────┐
+ │   SECURITY     │         │      AI        │         │    PRODUCTS    │
+ │     ENGINE     │         │     ENGINE     │         │     ENGINE     │
+ └───────┬────────┘         └───────┬────────┘         └───────┬────────┘
+         │                          │                          │
+         ▼                          ▼                          ▼
+ ┌────────────────┐         ┌────────────────┐         ┌────────────────┐
+ │  DETECTION     │         │     LLMs       │         │      WEB       │
+ │  MONITORING    │         │     AGENTS     │         │     MOBILE     │
+ │  HARDENING     │         │     MEMORY     │         │      SaaS      │
+ └───────┬────────┘         └───────┬────────┘         └───────┬────────┘
+         │                          │                          │
+         └──────────────────────────┼──────────────────────────┘
+                                    ▼
+                         ┌──────────────────────┐
+                         │     AUTOMATION       │
+                         └──────────┬───────────┘
+                                    ▼
+                         ┌──────────────────────┐
+                         │    REAL-WORLD        │
+                         │     PRODUCTS         │
+                         └──────────────────────┘
+```
+
+</div>
+
+---
+
+# 🎛️ COMMAND CENTER
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1600&pause=400&color=FFD700&center=true&vCenter=true&width=850&lines=%5B01%5D+INITIALIZING+CORE...;%5B02%5D+LOADING+AI+ENGINE...;%5B03%5D+LOADING+SECURITY+ENGINE...;%5B04%5D+CONNECTING+AUTOMATION...;%5B05%5D+CHECKING+SYSTEMS...;%5B06%5D+ALL+SYSTEMS+OPERATIONAL." />
+
+</div>
+
+```text id="d6hzw5"
+┌──────────────────────────────────────────────────────────────┐
+│                    COMMAND CENTER                            │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  CORE SYSTEM            ● ONLINE                             │
+│  AI ENGINE              ● ONLINE                             │
+│  SECURITY ENGINE        ● ACTIVE                             │
+│  AUTOMATION ENGINE      ● ACTIVE                             │
+│  PRODUCT ENGINE         ● BUILDING                           │
+│                                                              │
+│  LOCAL LLM LAB          ● ACTIVE                             │
+│  CLOUD INFRA            ● ACTIVE                             │
+│  EXPERIMENTATION        ● ALWAYS ON                          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🛡️ SECURITY OPERATIONS CENTER
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1900&pause=600&color=FFD700&center=true&vCenter=true&width=900&lines=SECURITY+MONITORING...;ANALYZING+ATTACK+SURFACES...;MAPPING+SYSTEMS...;HARDENING+INFRASTRUCTURE...;DEFENSIVE+AUTOMATION+READY." />
+
+</div>
+
+```text id="l4b3z1"
 ╔══════════════════════════════════════════════════════════════╗
 ║                  SECURITY OPERATIONS                         ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║   🔎 OSINT                    🌐 NETWORK SECURITY             ║
-║   🕷️ RECON                    🚨 THREAT INTELLIGENCE         ║
-║   🧪 ETHICAL HACKING          🔐 SYSTEM SECURITY              ║
-║   🧬 VULNERABILITY RESEARCH   📡 MONITORING                   ║
-║   ⚙️ AUTOMATION               🐧 LINUX / WINDOWS               ║
+║  🔎 OSINT                     [ ACTIVE ]                      ║
+║  🌐 NETWORK SECURITY         [ ACTIVE ]                      ║
+║  🕷️ RECON                    [ ACTIVE ]                      ║
+║  🚨 THREAT INTELLIGENCE      [ ACTIVE ]                      ║
+║  🧪 ETHICAL HACKING          [ LAB ]                         ║
+║  🔐 SYSTEM SECURITY          [ ACTIVE ]                      ║
+║  ⚙️ AUTOMATION               [ ACTIVE ]                      ║
 ║                                                              ║
+║                 DEFENSIVE MODE                               ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### `LEARN → BUILD → TEST → DEFEND`
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=SCANNING+SYSTEMS...;ANALYZING+ATTACK+SURFACES...;AUTOMATING+DEFENSE...;HARDENING+INFRASTRUCTURE...;DEFENSIVE+MODE+ACTIVE." />
-
-</div>
-
-Security work is approached as **controlled technical experimentation**: understanding systems, identifying weaknesses, improving defenses and automating repetitive security tasks.
-
 ---
+
+# 🤖 AI CONTROL PLANE
 
 <div align="center">
 
-# 🤖 AI // INTELLIGENT SYSTEMS
+### `LOCAL INTELLIGENCE → AGENTS → TOOLS → ACTION`
 
-```text
-                         ┌────────────────────┐
-                         │  INTELLIGENT CORE  │
-                         └─────────┬──────────┘
-                                   │
-             ┌─────────────────────┼─────────────────────┐
-             ↓                     ↓                     ↓
-       ┌───────────┐         ┌────────────┐        ┌───────────┐
-       │    LLM    │         │   AGENTS   │        │  DATA/ML  │
-       └─────┬─────┘         └──────┬─────┘        └─────┬─────┘
-             │                      │                     │
-             └──────────────────────┼─────────────────────┘
-                                    ↓
-                          ┌──────────────────┐
-                          │    AUTOMATION    │
-                          └────────┬─────────┘
-                                   ↓
-                         ┌────────────────────┐
-                         │   REAL PRODUCTS   │
-                         └────────────────────┘
-```
-
-### `LOCAL LLMs` · `AI AGENTS` · `AI ASSISTANTS` · `ML` · `MLOps` · `AUTOMATION`
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=850&lines=LOADING+MODEL...;PROMPT+ENGINEERING...;AGENT+ORCHESTRATION...;TOOL+CALLING...;MEMORY+SYSTEMS...;INTELLIGENCE+ONLINE." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1700&pause=500&color=FFD700&center=true&vCenter=true&width=900&lines=LOADING+LOCAL+MODEL...;CREATING+AGENT...;REGISTERING+TOOLS...;CONNECTING+MEMORY...;ORCHESTRATING+TASKS...;AGENT+READY." />
 
 </div>
 
+<table>
+<tr>
+<td align="center" width="20%">🧠<br><strong>LLM</strong></td>
+<td align="center" width="20%">🤖<br><strong>AGENT</strong></td>
+<td align="center" width="20%">🔌<br><strong>TOOLS</strong></td>
+<td align="center" width="20%">🧠<br><strong>MEMORY</strong></td>
+<td align="center" width="20%">⚡<br><strong>ACTION</strong></td>
+</tr>
+</table>
+
 ---
 
-# 🧰 TECHNOLOGY MATRIX
+# 🧰 TECHNOLOGY STACK
 
 <div align="center">
 
@@ -470,27 +627,19 @@ Security work is approached as **controlled technical experimentation**: underst
 
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,html,css,bash&theme=dark" />
 
-<br><br>
-
-### `APPLICATION ENGINEERING`
+### `FRONTEND / APPLICATIONS`
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,flutter,androidstudio&theme=dark" />
 
-<br><br>
-
-### `SYSTEMS / DEVOPS / CLOUD`
+### `INFRASTRUCTURE`
 
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,netlify,cloudflare&theme=dark" />
 
-<br><br>
-
-### `DATABASES / BACKEND`
+### `BACKEND / DATABASES`
 
 <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase&theme=dark" />
 
-<br><br>
-
-### `AI / MACHINE LEARNING`
+### `AI / ML`
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
 
@@ -498,9 +647,9 @@ Security work is approached as **controlled technical experimentation**: underst
 
 ---
 
-<div align="center">
+# 📈 PLATFORM TELEMETRY
 
-# 📊 GITHUB // LIVE TELEMETRY
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=noelmayele02-droid&show_icons=true&hide_border=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=050505&rank_icon=github&include_all_commits=true" />
 
@@ -514,9 +663,19 @@ Security work is approached as **controlled technical experimentation**: underst
 
 ---
 
+# 🛰️ ACTIVITY MATRIX
+
 <div align="center">
 
-# 🏆 ACHIEVEMENTS // TROPHIES
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=noelmayele02-droid&bg_color=050505&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true&custom_title=ALBERT.OS%20%E2%80%94%20ACTIVITY%20MATRIX" />
+
+</div>
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=noelmayele02-droid&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" />
 
@@ -524,61 +683,131 @@ Security work is approached as **controlled technical experimentation**: underst
 
 ---
 
-# 📡 CONTRIBUTION MATRIX
+# 🧬 ENGINEERING DNA
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=noelmayele02-droid&bg_color=050505&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true&custom_title=ALBERT%20ISAAC%20MAYELE%20%E2%80%94%20CONTRIBUTION%20MATRIX" />
+|     MODULE    |        PURPOSE        |  STATUS  |
+| :-----------: | :-------------------: | :------: |
+|  🛡️ SECURITY |    Protect systems    | `ACTIVE` |
+|     🤖 AI     |   Build intelligence  | `ACTIVE` |
+| ⚙️ AUTOMATION |    Remove friction    | `ACTIVE` |
+|    ☁️ CLOUD   |     Scale systems     | `ACTIVE` |
+|  💻 SOFTWARE  |     Build products    | `ACTIVE` |
+| 🚀 INNOVATION | Explore possibilities | `ACTIVE` |
 
 </div>
 
 ---
 
-# 🧬 DEVELOPMENT DNA
+# 🗺️ PRODUCT ROADMAP
+
+```text id="x2djce"
+                         ALBERT.OS ROADMAP
+                                │
+              ┌─────────────────┼─────────────────┐
+              │                 │                 │
+              ▼                 ▼                 ▼
+        🛡️ SECURITY           🤖 AI            🚀 PRODUCTS
+              │                 │                 │
+              ├─ Labs           ├─ Local LLMs    ├─ FAXTRIX
+              ├─ Detection      ├─ Agents        ├─ Teka Tech
+              ├─ Automation     ├─ Assistants    ├─ New SaaS
+              └─ Defense        └─ MLOps         └─ Experiments
+                                │
+                                ▼
+                       ┌─────────────────┐
+                       │ DIGITAL FUTURE  │
+                       └─────────────────┘
+```
+
+---
+
+# 🧪 EXPERIMENT PIPELINE
+
+<div align="center">
+
+`IDEA`
+
+↓
+
+`PROTOTYPE`
+
+↓
+
+`TEST`
+
+↓
+
+`BREAK`
+
+↓
+
+`FIX`
+
+↓
+
+`SECURE`
+
+↓
+
+`AUTOMATE`
+
+↓
+
+`SHIP`
+
+</div>
+
+> Every experiment doesn't need to become a product.
+>
+> But every experiment should teach something.
+
+---
+
+# 💎 DESIGN PHILOSOPHY
 
 <table>
 <tr>
+<td width="25%" align="center">
 
-<td align="center" width="25%">
+### 🛡️
 
-## 🛡️
+**SECURE**
 
-### SECURITY
-
-Protect systems.
-
-</td>
-
-<td align="center" width="25%">
-
-## 🤖
-
-### AI
-
-Build intelligence.
+Security by design.
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-## ⚙️
+### 🧠
 
-### AUTOMATION
+**INTELLIGENT**
 
-Remove friction.
-
-</td>
-
-<td align="center" width="25%">
-
-## 🚀
-
-### PRODUCTS
-
-Ship ideas.
+AI where it creates value.
 
 </td>
 
+<td width="25%" align="center">
+
+### ⚙️
+
+**AUTOMATED**
+
+Less repetition. More leverage.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🎯
+
+**USEFUL**
+
+Technology with purpose.
+
+</td>
 </tr>
 </table>
 
@@ -586,63 +815,82 @@ Ship ideas.
 
 <div align="center">
 
-# 🛰️ SYSTEM STATUS
+# 🌍 THE VISION
 
-```text
+### `TECHNOLOGY SHOULD SOLVE PROBLEMS.`
+
+<br>
+
+Not just demos.
+
+Not just buzzwords.
+
+Not just prototypes.
+
+<br>
+
+### **REAL SYSTEMS.**
+
+### **REAL AUTOMATION.**
+
+### **REAL SECURITY.**
+
+### **REAL VALUE.**
+
+<br>
+
+`SECURITY + INTELLIGENCE + AUTOMATION + HUMAN VALUE`
+
+</div>
+
+---
+
+# 🔥 CURRENT BUILD MODE
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=600&color=FFD700&center=true&vCenter=true&width=900&lines=BUILDING+FAXTRIX...;EXPLORING+LOCAL+AI...;ENGINEERING+SECURITY+SYSTEMS...;DESIGNING+NEW+PRODUCTS...;TURNING+IDEAS+INTO+SYSTEMS..." />
+
+</div>
+
+```text id="8l2q2c"
 ╔══════════════════════════════════════════════════════════════╗
-║             ALBERT ISAAC MAYELE // SYSTEM STATUS             ║
+║                    BUILD QUEUE                              ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  STATUS       : ● ONLINE                                    ║
-║  MODE         : BUILD / LEARN / EXPERIMENT                  ║
-║  CORE         : CYBERSECURITY + AI + SYSTEMS                ║
-║  MISSION      : TURN IDEAS INTO WORKING TECHNOLOGY          ║
-║                                                              ║
-║  BUILDING     : ████████████████████████████████  100%       ║
-║  LEARNING     : ██████████████████████████████    ACTIVE     ║
-║  SECURING     : ████████████████████████████      ACTIVE     ║
-║  AUTOMATING   : ███████████████████████████       ACTIVE     ║
-║  INNOVATING   : ██████████████████████████████    ACTIVE     ║
-║                                                              ║
-║  SECURITY     : ● DEFENSIVE MODE                             ║
-║  AI CORE      : ● ONLINE                                     ║
-║  BUILD MODE   : ● ACTIVE                                     ║
-║                                                              ║
-║  SYSTEM       : BLACK GOLD // OPERATIONAL                   ║
+║  [01] FAXTRIX              ████████████████████  BUILDING    ║
+║  [02] OPENJARVIS           ██████████████████    EVOLVING    ║
+║  [03] SECURITY LAB          █████████████████     ACTIVE      ║
+║  [04] AI EXPERIMENTS       ███████████████       ACTIVE      ║
+║  [05] NEW PRODUCTS          ████████████          EXPLORING   ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
 ---
 
-# 🧭 ROADMAP // NEXT SYSTEMS
+# 📡 SYSTEM STATUS
 
 <div align="center">
 
-```text
-        2026
-         │
-         ├── 🛡️ CYBERSECURITY
-         │      ├── Security Labs
-         │      ├── Automation
-         │      └── Defensive Tooling
-         │
-         ├── 🤖 ARTIFICIAL INTELLIGENCE
-         │      ├── Local LLMs
-         │      ├── AI Agents
-         │      └── Intelligent Assistants
-         │
-         ├── ⚙️ ENGINEERING
-         │      ├── Full-Stack Systems
-         │      ├── Cloud
-         │      └── DevSecOps
-         │
-         └── 🚀 PRODUCTS
-                ├── FAXTRIX
-                ├── Teka Tech Congo
-                └── New Experiments
+```text id="b1g0fj"
+┌──────────────────────────────────────────────────────────────┐
+│                 ALBERT.OS // STATUS                           │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│   PLATFORM             ● ONLINE                              │
+│   SECURITY             ● ACTIVE                              │
+│   AI CORE              ● ONLINE                              │
+│   AUTOMATION           ● ACTIVE                              │
+│   CLOUD                ● CONNECTED                           │
+│   PRODUCT ENGINE       ● BUILDING                            │
+│                                                              │
+│   MODE                 BUILD / LEARN / EXPERIMENT            │
+│                                                              │
+│   SYSTEM               BLACK GOLD                             │
+│   VERSION              2026                                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -651,66 +899,40 @@ Ship ideas.
 
 <div align="center">
 
-# 💎 DIGITAL VISION
-
-### `SECURE  •  INTELLIGENT  •  USEFUL  •  ACCESSIBLE  •  SCALABLE`
-
-<br>
-
-Technology should not exist simply because it is possible.
-
-### **It should exist because it solves something.**
-
-<br>
-
-I want to build systems that combine:
-
-`SECURITY` + `INTELLIGENCE` + `AUTOMATION` + `HUMAN VALUE`
-
-<br>
-
-### `FROM SECURITY LABS → TO AI SYSTEMS → TO DIGITAL PRODUCTS`
-
-</div>
-
----
-
-<div align="center">
-
-# 🌐 ENTER THE LAB
+# 🚀 ENTER THE PLATFORM
 
 <br>
 
 <a href="https://www.stostep.tech">
-<img src="https://img.shields.io/badge/🌐_EXPLORE_PORTFOLIO-FFD700?style=for-the-badge&labelColor=050505&color=FFD700" />
+<img src="https://img.shields.io/badge/LAUNCH_PORTFOLIO-FFD700?style=for-the-badge&labelColor=050505&color=FFD700" />
 </a>
 
 <a href="https://github.com/noelmayele02-droid">
-<img src="https://img.shields.io/badge/💻_EXPLORE_GITHUB-FFD700?style=for-the-badge&labelColor=050505&color=FFD700" />
+<img src="https://img.shields.io/badge/EXPLORE_THE_LAB-FFD700?style=for-the-badge&labelColor=050505&color=FFD700" />
 </a>
 
 <a href="https://linkedin.com/in/albert-isaac-noël-mayele-93aa96288">
-<img src="https://img.shields.io/badge/💼_CONNECT_ON_LINKEDIN-FFD700?style=for-the-badge&labelColor=050505&color=FFD700" />
+<img src="https://img.shields.io/badge/CONNECT_WITH_ME-FFD700?style=for-the-badge&labelColor=050505&color=FFD700" />
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=3&width=750" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=3&width=800" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=FFD700&center=true&vCenter=true&width=850&lines=THANKS+FOR+ENTERING+THE+LAB.;KEEP+EXPLORING.;KEEP+BUILDING.;KEEP+SECURING.;KEEP+INNOVATING." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=1800&pause=600&color=FFD700&center=true&vCenter=true&width=900&lines=WELCOME+TO+ALBERT.OS;WELCOME+TO+THE+LAB;BUILD+SOMETHING+USEFUL.;SECURE+WHAT+YOU+BUILD.;AUTOMATE+WHAT+YOU+CAN.;INNOVATE+WHAT+COMES+NEXT." />
 
 <br><br>
 
-# `⚡ BUILD. SECURE. AUTOMATE. INNOVATE.`
+# `BUILD. SECURE. AUTOMATE. INNOVATE.`
 
 <br>
 
-<sub>© ALBERT ISAAC MAYELE — BLACK GOLD ENGINEERING LAB</sub>
+<sub>ALBERT ISAAC MAYELE · BLACK GOLD ENGINEERING LAB · ALBERT.OS</sub>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,35:D4A900,65:8A6500,100:050505&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,30:D4A900,60:8A6500,100:020202&height=160&section=footer" />
 
 </div>
