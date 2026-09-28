@@ -1,22 +1,16 @@
 <div align="center">
 
-# ⚡ ALBERT ISAAC MAYELE
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:101b3d,100:00e5ff&height=180&section=header&text=ALBERT%20ISAAC%20MAYELE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%E2%80%A2%20AI%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=16" />
 
-### `CYBERSECURITY` · `SYSTEMS` · `AI` · `SOFTWARE ENGINEERING`
-
-<a href="https://github.com/noelmayele02-droid">
-  <img src="https://img.shields.io/badge/GitHub-noelmayele02--droid-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.stostep.tech">
-  <img src="https://img.shields.io/badge/Portfolio-stostep.tech-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/albert-isaac-noël-mayele-93aa96288">
-  <img src="https://img.shields.io/badge/LinkedIn-Albert%20Isaac%20Mayele-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://github.com/noelmayele02-droid"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.stostep.tech"><img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a> <a href="https://linkedin.com/in/albert-isaac-noël-mayele-93aa96288"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+secure+digital+systems.;Cybersecurity+%7C+AI+%7C+Cloud+%7C+Software.;Turning+ideas+into+real+working+products.;Exploring+the+future+of+intelligent+systems." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+secure+digital+systems.;Engineering+AI-powered+software.;Exploring+local+LLMs+%26+intelligent+agents.;Turning+ideas+into+working+products.;Cybersecurity+%7C+Systems+%7C+AI+%7C+Cloud" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=noelmayele02-droid&style=for-the-badge&color=00e5ff&label=PROFILE+VISITORS" />
 
 </div>
 
@@ -24,198 +18,265 @@
 
 <div align="center">
 
-## 🧬 `WHO AM I?`
+## ◈ THE ENGINEERING MINDSET
+
+### BUILD → SECURE → AUTOMATE → INTELLIGENTLY SCALE
 
 </div>
 
-```text
-Albert Isaac MAYELE
-├── 🛡️ Cybersecurity
-├── 🖥️ Systems & Infrastructure
-├── 💻 Software Engineering
-├── 🤖 Artificial Intelligence
-├── ☁️ Cloud & Digital Systems
-└── 🚀 Product Building
-```
+<table>
+<tr>
+<td width="50%">
 
-> I build, experiment and engineer digital systems at the intersection of
-> **cybersecurity, software engineering, artificial intelligence and infrastructure.**
+### 🧬 WHO AM I?
 
-My GitHub is my **technical laboratory**: prototypes, security projects, AI systems,
-automation tools, digital products and experiments that turn ideas into working software.
+I'm **Albert Isaac MAYELE** — a technology builder working at the intersection of:
 
-Currently exploring:
+🛡️ Cybersecurity
+🖥️ Systems & Infrastructure
+💻 Software Engineering
+🤖 Artificial Intelligence
+☁️ Cloud & Automation
+🚀 Digital Product Engineering
 
-`Cybersecurity` · `AI Agents` · `LLMs` · `Cloud` · `Automation` · `Systems` · `DevSecOps`
+</td>
+<td width="50%">
+
+### ⚡ HOW I WORK
+
+<pre>
+IDEA
+ ↓
+ARCHITECTURE
+ ↓
+BUILD
+ ↓
+TEST
+ ↓
+SECURE
+ ↓
+AUTOMATE
+ ↓
+SHIP
+ ↓
+ITERATE
+</pre>
+
+<strong>GitHub = my technical laboratory.</strong>
+
+</td>
+</tr>
+</table>
+
+> I don't just study technology — I **build with it**. My repositories are experiments, prototypes, security work, AI systems and digital products designed to transform ideas into something real.
+
+### 🔭 CURRENTLY EXPLORING
+
+<strong>Cybersecurity</strong> · <strong>AI Agents</strong> · <strong>Local LLMs</strong> · <strong>Ollama</strong> · <strong>Cloud</strong> · <strong>DevSecOps</strong> · <strong>Automation</strong> · <strong>Systems</strong>
 
 ---
 
 <div align="center">
 
-## 🚀 `FEATURED PROJECTS`
+# 🚀 PROJECT UNIVERSE
 
 </div>
 
-### 🧠 FAXTRIX
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Enterprise CRM / FSM / AI platform**
+## 🧠 FAXTRIX
 
-A next-generation business platform connecting:
+### CRM × FSM × AI × AUTOMATION
 
-`CRM → Field Service → Teams → Automation → Intelligence → Simulation`
+A business operating system concept connecting:
 
-Featuring concepts such as:
+<strong>CRM → Terrain → Teams → Automation → Intelligence → Simulation</strong>
 
-* 🧠 Business Brain
-* 🚨 Early Warning
-* 📊 Process Mining
-* 🛡️ Security Guardian
-* 🔄 Auto-Recovery
-* 👥 Team Load AI
-* 🧬 Organizational DNA
-* 🧠 Organizational Memory
-* 🎯 Decision Simulator
-* 🏢 Business Simulator
+🧠 Business Brain
+🚨 Early Warning
+📊 Process Mining
+🛡️ Security Guardian
+🔄 Auto-Recovery
+👥 Team Load AI
+🧬 Organizational DNA
+🧠 Organizational Memory
+🎯 Decision Simulator
+🏢 Business Simulator
 
-**Stack:** TypeScript · React · Android · PWA · AI · Cloud
+<strong>TypeScript · React · Android · PWA · AI · Cloud</strong>
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🇨🇬 Teka Tech Congo
+## 🇨🇬 TEKA TECH CONGO
 
-**Digital technology platform built around IT services and digital solutions in Congo.**
+### DIGITAL TECHNOLOGY PLATFORM
 
-Focus areas:
+A technology initiative focused on digital services and practical IT solutions.
 
-`IT Support` · `Networks` · `Wi-Fi` · `Video Surveillance` · `Digital Solutions`
+🌐 Digital Solutions
+🖥️ IT Support
+🌐 Networks
+📡 Wi-Fi
+📹 Video Surveillance
+🚀 Digital Transformation
 
-Repository:
+<strong>Mission:</strong> make useful technology more accessible and practical.
 
-**https://github.com/noelmayele02-droid/Teka-Tech-Congo**
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-### 🛡️ Sentinel
+## 🛡️ SENTINEL
 
-Security-oriented experimentation around monitoring, detection and defensive cybersecurity.
+### DEFENSIVE CYBERSECURITY LAB
 
-**Focus:**
+Security-oriented experimentation around:
 
-`Security Automation` · `Detection` · `Python` · `Cybersecurity`
+🔎 Monitoring
+🚨 Detection
+⚙️ Security Automation
+🧪 Controlled Security Research
+📡 Defensive Tooling
 
----
+<strong>Python · Security · Automation</strong>
 
-### 🤖 OpenJarvis
+</td>
+<td width="50%" valign="top">
 
-An exploration into **local AI assistants, agents and LLM-powered systems**.
+## 🤖 OPENJARVIS
 
-Current experiments include:
+### LOCAL AI ASSISTANT LAB
 
-`Local LLMs` · `Ollama` · `AI Agents` · `Automation` · `Voice Assistants`
+Experiments around local intelligent assistants and agentic systems.
 
----
+🧠 Local LLMs
+🗣️ Voice Assistants
+🤖 AI Agents
+⚙️ Automation
+🖥️ Ollama
+🔌 Local AI Infrastructure
 
-### 🧠 FHR-AI
+<strong>Python · LLM · Ollama · Agents</strong>
 
-An AI / MLOps-oriented platform exploring the complete machine-learning lifecycle:
+</td>
+</tr>
 
-`Data → Processing → Features → Training → Validation → Inference → Monitoring`
+<tr>
+<td width="50%" valign="top">
 
-Designed around the idea of taking AI models beyond experimentation and toward usable production systems.
+## 🧠 FHR-AI
 
----
+### AI / MLOPS EXPLORATION
 
-### 🎵 Suno Audio Vault
+<strong>Data → Features → Training → Validation → Inference → Monitoring</strong>
 
-A web-based project focused on organizing and interacting with AI-generated audio.
+The goal: move AI ideas from experimentation toward useful, maintainable systems.
 
-**Stack:** TypeScript · Web APIs · Modern Frontend
+<strong>AI · ML · MLOps · Data</strong>
+
+</td>
+<td width="50%" valign="top">
+
+## 🎵 SUNO AUDIO VAULT
+
+### AI AUDIO WEB EXPERIENCE
+
+A web project exploring the organization and interaction with AI-generated audio.
+
+<strong>TypeScript · Web APIs · Frontend</strong>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## 🛡️ CYBERSECURITY LAB
+## 🛡️ CYBERSECURITY // LAB
+
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+│                    SECURITY OPERATIONS                       │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  🔎 OSINT              🌐 NETWORK SECURITY                   │
+│  🕷️ RECON              🚨 THREAT INTELLIGENCE               │
+│  🧪 ETHICAL HACKING    🔐 SYSTEM SECURITY                    │
+│  🧬 VULN RESEARCH      📡 MONITORING                         │
+│  ⚙️ AUTOMATION         🐧 LINUX / WINDOWS                    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+</pre>
+
+<strong>LEARN → BUILD → TEST → DEFEND</strong>
 
 </div>
 
-```text
-╔════════════════════════════════════════════════════════════╗
-║                    SECURITY STACK                          ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  🔎 OSINT              Network Security                    ║
-║  🕷️ Recon              Threat Intelligence                 ║
-║  🧪 Ethical Hacking    Vulnerability Research              ║
-║  🌐 Networking         Linux / Windows                     ║
-║  🔐 System Security    Security Automation                 ║
-║  📡 Monitoring         Defensive Security                  ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-I use GitHub as a place to document experiments, learn through implementation
-and build security-oriented tooling in controlled environments.
+Security experiments are approached as controlled technical work: understanding systems, identifying weaknesses, improving defenses and automating repetitive security tasks.
 
 ---
 
 <div align="center">
 
-## 🤖 AI & INTELLIGENT SYSTEMS
+## 🤖 AI // INTELLIGENT SYSTEMS
+
+<pre>
+                         ┌────────────────────┐
+                         │   INTELLIGENT CORE │
+                         └─────────┬──────────┘
+                                   │
+              ┌────────────────────┼────────────────────┐
+              ▼                    ▼                    ▼
+        ┌───────────┐        ┌────────────┐       ┌───────────┐
+        │    LLM    │        │   AGENTS   │       │  DATA/ML  │
+        └─────┬─────┘        └──────┬─────┘       └─────┬─────┘
+              │                     │                    │
+              └─────────────────────┼────────────────────┘
+                                    ▼
+                           ┌────────────────┐
+                           │  AUTOMATION    │
+                           └───────┬────────┘
+                                   ▼
+                         ┌──────────────────┐
+                         │ REAL PRODUCTS ⚡ │
+                         └──────────────────┘
+</pre>
 
 </div>
 
-```text
-                    ┌───────────────────┐
-                    │   INTELLIGENT AI  │
-                    └─────────┬─────────┘
-                              │
-             ┌────────────────┼────────────────┐
-             ▼                ▼                ▼
-        LLM / Agents       Automation       Data / ML
-             │                │                │
-             ▼                ▼                ▼
-       Local Models       Workflows       MLOps Systems
-             │                │                │
-             └────────────────┼────────────────┘
-                              ▼
-                    Real-world Products
-```
+### AI INTERESTS
 
-Areas I'm exploring:
-
-* Local LLMs
-* AI agents
-* AI assistants
-* Machine learning
-* MLOps
-* Intelligent automation
-* AI-powered business systems
-* Human-computer interaction
+<strong>Local LLMs</strong> · <strong>AI Agents</strong> · <strong>AI Assistants</strong> · <strong>Machine Learning</strong> · <strong>MLOps</strong> · <strong>Intelligent Automation</strong> · <strong>AI Business Systems</strong> · <strong>Human-Computer Interaction</strong>
 
 ---
 
 <div align="center">
 
-## 🧰 TECHNOLOGY STACK
+# 🧰 TECHNOLOGY MATRIX
 
-### Languages
+### LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,html,css,bash" />
 
-### Development
+### APPLICATION ENGINEERING
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,androidstudio,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,flutter,androidstudio" />
 
-### Infrastructure & DevOps
+### SYSTEMS / DEVOPS / CLOUD
 
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,netlify,cloudflare" />
 
-### Databases & Cloud
+### DATABASES / BACKEND
 
 <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase" />
 
-### AI
+### AI / ML
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
@@ -225,17 +286,14 @@ Areas I'm exploring:
 
 <div align="center">
 
-## 📊 GITHUB INTELLIGENCE
+# 📊 GITHUB // LIVE TELEMETRY
 
-<img src="https://github-readme-stats.vercel.app/api?username=noelmayele02-droid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelmayele02-droid&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=noelmayele02-droid&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelmayele02-droid&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=noelmayele02-droid&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=noelmayele02-droid&theme=tokyonight&hide_border=true&mode=weekly" />
 
 </div>
 
@@ -243,68 +301,64 @@ Areas I'm exploring:
 
 <div align="center">
 
-## 🏆 GITHUB TROPHIES
+## 🏆 ACHIEVEMENTS // TROPHIES
 
-<img src="https://github-profile-trophy.vercel.app/?username=noelmayele02-droid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=noelmayele02-droid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" />
 
 </div>
+
+---
+
+## 🛰️ SYSTEM STATUS
+
+<pre>
+╔══════════════════════════════════════════════════════════════╗
+║                    ALBERT // SYSTEM STATUS                  ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  STATUS        :  ● ONLINE                                  ║
+║  MODE          :  BUILD / LEARN / EXPERIMENT                ║
+║  CORE          :  CYBERSECURITY + AI + SYSTEMS              ║
+║  MISSION       :  TURN IDEAS INTO WORKING TECHNOLOGY        ║
+║                                                              ║
+║  [████████████████████████████████████]  BUILDING           ║
+║  [██████████████████████████████████  ]  LEARNING           ║
+║  [████████████████████████████████    ]  SECURING           ║
+║  [██████████████████████████████      ]  AUTOMATING         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+</pre>
 
 ---
 
 <div align="center">
-
-## 📡 CURRENT ACTIVITY
-
-```text
-[████████████████████████████████████████]  ACTIVE
-
-→ Building
-→ Learning
-→ Securing
-→ Automating
-→ Experimenting
-→ Shipping
-```
-
-</div>
-
----
 
 ## 🌍 DIGITAL VISION
 
-I'm interested in building technology that is:
+### SECURE. INTELLIGENT. USEFUL. ACCESSIBLE. SCALABLE.
 
-**Secure. Intelligent. Useful. Accessible. Scalable.**
+I want to build technology that solves **real problems**, strengthens digital capabilities and turns ambitious ideas into useful systems.
 
-From cybersecurity laboratories to AI systems and digital products,
-the goal is simple:
+<br>
 
-> **Build technology that solves real problems.**
+<strong>From security labs → to AI systems → to digital products.</strong>
+
+</div>
 
 ---
 
 <div align="center">
 
-## 🌐 CONNECT
+# 🌐 ENTER THE LAB
 
-<a href="https://www.stostep.tech">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-stostep.tech-111827?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/noelmayele02-droid">
-<img src="https://img.shields.io/badge/💻%20GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://linkedin.com/in/albert-isaac-noël-mayele-93aa96288">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
+<a href="https://www.stostep.tech"><img src="https://img.shields.io/badge/🌐%20EXPLORE%20PORTFOLIO-00E5FF?style=for-the-badge&labelColor=0b1020&color=00e5ff" /></a> <a href="https://github.com/noelmayele02-droid"><img src="https://img.shields.io/badge/💻%20EXPLORE%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://linkedin.com/in/albert-isaac-noël-mayele-93aa96288"><img src="https://img.shields.io/badge/💼%20CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br><br>
 
-### ⚡ `BUILD. SECURE. AUTOMATE. INNOVATE.`
+### ⚡ BUILD. SECURE. AUTOMATE. INNOVATE.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=noelmayele02-droid&style=for-the-badge&color=00E5FF&label=PROFILE+VISITORS" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:101b3d,100:0b1020&height=120&section=footer" />
 
 </div>
